@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm [Thoranin Pongsatitporn] 👋
 
-<!--
-**DreamThora/DreamThora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering graduate with a focus on Data Science and Machine Learning. Currently seeking opportunities as a **Data Scientist / Machine Learning Engineer**, with hands-on project experience in classification and clustering on real-world financial datasets.
 
-Here are some ideas to get you started:
+I enjoy turning business problems into modelling decisions — choosing the right evaluation metric, engineering features that capture real behavioral signals, and validating results before trusting them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+**Programming Languages**
+Python, SQL (Intermediate)
+
+**Libraries / Frameworks**
+Pandas, NumPy, Scikit-learn, LightGBM, XGBoost, Imbalanced-learn, Matplotlib, Seaborn
+
+**Tools / Platforms**
+Git, Jupyter Notebook, VS Code, Kaggle
+
+## 📌 Featured Projects
+
+- **[Credit Card Fraud Detection](https://github.com/DreamThora/Credit-Card-Transactions-Fraud-Detection)** — LightGBM model on 1.3M+ transactions with engineered velocity features. PR-AUC: 0.55
+- **[Bank Customer Churn Prediction](https://github.com/DreamThora/binary-classification-bank-churn)** — Logistic Regression with domain-driven interaction features. ROC-AUC: 0.87
+- **[Credit Card Customer Segmentation](https://github.com/DreamThora/Credit-Card-Dataset-For-Clustering)** — K-Means, Hierarchical, and DBSCAN clustering on 8,950 customers. 90.7% cross-algorithm agreement
+
+## 📫 Contact
+
+Feel free to reach out — [LinkedIn](https://www.linkedin.com/in/thoranin-pongsatitporn-b1840525b/)

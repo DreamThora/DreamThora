@@ -1,4 +1,4 @@
-# Hi, I'm [Thoranin Pongsatitporn] 👋
+# Hi, I'm Thoranin Pongsatitporn 👋
 
 Computer Engineering graduate with a focus on Data Science and Machine Learning. Currently seeking opportunities as a **Data Scientist / Machine Learning Engineer**, with hands-on project experience in classification and clustering on real-world financial datasets.
 

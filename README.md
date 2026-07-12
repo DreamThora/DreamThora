@@ -17,9 +17,9 @@ Git, Jupyter Notebook, VS Code, Kaggle
 
 ## 📌 Featured Projects
 
-- **[Credit Card Fraud Detection](https://github.com/DreamThora/Credit-Card-Transactions-Fraud-Detection)** — XGBoost with velocity & target-encoded features on 1.3M+ transactions. PR-AUC: 0.9750, F1: 0.92
-- **[Bank Customer Churn Prediction](https://github.com/DreamThora/binary-classification-bank-churn)** — Logistic Regression with domain-driven feature engineering, SHAP interpretability, and threshold-based business impact analysis. ROC-AUC: 0.87
-- **[Credit Card Customer Segmentation](https://github.com/DreamThora/Credit-Card-Dataset-For-Clustering)** — K-Means, Hierarchical, and DBSCAN clustering on 8,950 customers. 2 behavioral segments + 2 edge groups identified with 90.7% cross-algorithm agreement
+- **[Credit Card Fraud Detection](https://github.com/DreamThora/Credit-Card-Transactions-Fraud-Detection)** — XGBoost with velocity & target-encoded features, tuned for imbalanced fraud data (PR-AUC 0.9750) with threshold-based deployment strategy.
+- **[Bank Customer Churn Prediction](https://github.com/DreamThora/binary-classification-bank-churn)** — Logistic Regression with interaction-feature engineering & SHAP interpretability. Identified high-risk segments and quantified retention ROI via threshold tuning. ROC-AUC: 0.87
+- **[Credit Card Customer Segmentation](https://github.com/DreamThora/Credit-Card-Dataset-For-Clustering)** — K-Means, Hierarchical & DBSCAN clustering with cross-algorithm validation (90.7% agreement) and outlier detection for behavioral marketing segments.
 
 ## 📫 Contact
 
